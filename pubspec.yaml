@@ -9,6 +9,9 @@ environment:
 
 dependencies:
   args: "^1.4.3"
+  intl: "^0.15.6"
+  csv: "^3.1.2"
+  sparkline_console: "^0.0.1"
 
 dev_dependencies:
   test: ^0.12.0
